@@ -27,6 +27,10 @@
   },
   "modules": [
     {
+      "name": "module_form",
+      "srcPath": "./module/module_form"
+    },
+    {
       "name": "entry",
       "srcPath": "./entry",
       "targets": [
