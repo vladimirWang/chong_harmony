@@ -1,8 +1,12 @@
 {
   "color": [
     {
-      "name": "start_window_background",
-      "value": "#FFFFFF"
+      "name": "login_bg_color",
+      "value": "#a9a9a9"
+    },
+    {
+      "name": "shallow_gray",
+      "value": "#e9e9e9"
     }
   ]
 }
